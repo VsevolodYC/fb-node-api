@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "latitude": 48.83012,
+        "longitude": 2.3762,
+        "street": "3 rue de tolbiac",
+        "zip": "75013"
+      },
+      "hours": {
+        "mon_1_open": "08:00",
+        "mon_1_close": "12:00",
+        "tue_1_open": "08:00",
+        "tue_1_close": "12:00",
+        "wed_1_open": "08:00",
+        "wed_1_close": "12:00",
+        "thu_1_open": "08:00",
+        "thu_1_close": "12:00"
+      },
+      "store_location_descriptor": "this is the shop in tolbiac",
+      "phone": "+33612031257",
+      "id": "2120427024867800"
+    },
+    {
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "latitude": 48.86876,
+        "longitude": 2.31653,
+        "street": "5 rue des champs elysee",
+        "zip": "75008"
+      },
+      "hours": {
+        "mon_1_open": "09:00",
+        "mon_1_close": "17:00",
+        "tue_1_open": "09:00",
+        "tue_1_close": "17:00",
+        "wed_1_open": "09:00",
+        "wed_1_close": "17:00",
+        "thu_1_open": "09:00",
+        "thu_1_close": "17:00",
+        "fri_1_open": "09:00",
+        "fri_1_close": "17:00",
+        "sat_1_open": "09:00",
+        "sat_1_close": "17:00"
+      },
+      "store_location_descriptor": "shoppingactu champs elysee",
+      "phone": "+33612031257",
+      "id": "2105094136390981"
+    },
+    {
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "latitude": 48.851585440984,
+        "longitude": 2.3744416236877,
+        "street": "78 rue du faubourg saint antoine",
+        "zip": "75012"
+      },
+      "hours": {
+        "tue_1_open": "10:00",
+        "tue_1_close": "18:00",
+        "wed_1_open": "10:00",
+        "wed_1_close": "18:00",
+        "thu_1_open": "10:00",
+        "thu_1_close": "18:00",
+        "fri_1_open": "10:00",
+        "fri_1_close": "18:00"
+      },
+      "store_location_descriptor": "This is the shop in Bastille",
+      "phone": "+33612030303",
+      "id": "170982276954804"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "MjEyMDQyNzAyNDg2NzgwMAZDZD",
+      "after": "MTcwOTgyMjc2OTU0ODA0"
+    }
+  }
+}

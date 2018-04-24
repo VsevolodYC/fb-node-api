@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "email": "user-1@test.com",
+    "password": "123456",
+    "password_bcrypt": "$2a$04$86xTUNgQqF8dMf43BZ7NHeGAunrT3S0d3ozA97fSbr6DGBnPNhTO6",
+    "token": "89520074610693267110665433694768752223436873337151"
+  }
+]
